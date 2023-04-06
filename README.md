@@ -6,4 +6,4 @@ Text Mining - PESC - COPPE/ UFRJ
 - Result can be found here: [authors](autores.xml).
 
 - [X] Method 2 - Retrieving title names and saving each in a line in an xml file [eTree](etree.ipynb).
-- Result can be found here: [titles](titulos.xml).
+- Result can be found here: [titles](titulo.xml).
